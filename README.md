@@ -9,7 +9,7 @@ Big thanks to [osxlatitude.com](https://osxlatitude.com) it wouldn't be
 possible without the help of [Jake
 Lo](https://osxlatitude.com/profile/1549-jake-lo/)
 
-![about mac](https://i.boring.host/YVRGdu8.png)
+<!-- ![about mac](https://i.boring.host/YVRGdu8.png) -->
 ![laptop](https://i.boring.host/YIPaJ5w.jpg)
 
 ## What works?
