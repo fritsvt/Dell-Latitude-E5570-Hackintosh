@@ -17,7 +17,6 @@ Lo](https://osxlatitude.com/profile/1549-jake-lo/)
 I have changed the wifi card to a DW1830. With that said most stuff should work on this laptop (I currently use it as daily driver). Except for the following:
 - Bluetooth (fixable but I just don't use it)
 - Touchpad gestures
-- Finder Sensor, smart card reader if you have one
 - SD Card reader
 
 ## Installation
