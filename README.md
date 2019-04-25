@@ -37,6 +37,9 @@ Get Mac OS running on your laptop
 - Now mount the EFI partition of your boot drive
 - Replace the Clover folder in the EFI partition with the contents of [clover.zip](CLOVER.zip)
 - Unmount the EFI partition
+- Copy kexts from /EFI/Clover/kexts/Other/CopyToLE to /Library/Extensions
+- Open a terminal and run: `sudo kextcache -i /`
+- Remove USB and reboot
 
 Fix keyboard shortcuts
 - Download and install [Karabiner Elements](https://pqrs.org/osx/karabiner/)
