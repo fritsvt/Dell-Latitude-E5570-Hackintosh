@@ -13,7 +13,7 @@ Lo](https://osxlatitude.com/profile/1549-jake-lo/)
 
 ## What works?
 
-I have changed the wifi card to a DW1830. With that card most things should work on this laptop, except for the following:
+I have changed the wifi card to a DW1830. With that said most stuff should work on this laptop (I currently use it as daily driver). Except for the following:
 - Bluetooth (fixable but I just don't use it)
 - Touchpad gestures
 - Finder Sensor, smart card reader if you have one
@@ -26,7 +26,7 @@ Get Mac OS running on your laptop
 - Follow the Vanilla guide in the sidebar to make a bootable usb with Mojave
   [r/hackintosh](https://reddit.com/r/hackingtosh)
 - Mount the EFI partition on the USB with a tool like [clover configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
-- Replace the Clover folder in the EFI partition with the contents of [clover.zip](clover.zip)
+- Replace the Clover folder in the EFI partition with the contents of [clover.zip](CLOVER.zip)
 - Unmount the EFI partition
 - Boot the USB on your Latitude E5570 and install Mac OS on your laptop
 - After the installation finished boot from your USB again and select the drive
@@ -34,7 +34,7 @@ Get Mac OS running on your laptop
 - Get [clover configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
   on your new mac
 - Now mount the EFI partition of your boot drive
-- Replace the Clover folder in the EFI partition with the contents of [clover.zip](clover.zip)
+- Replace the Clover folder in the EFI partition with the contents of [clover.zip](CLOVER.zip)
 - Unmount the EFI partition
 
 Fix keyboard shortcuts
