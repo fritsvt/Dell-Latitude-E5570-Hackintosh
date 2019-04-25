@@ -25,7 +25,7 @@ I have changed the wifi card to a DW1830. With that said most stuff should work 
 Get Mac OS running on your laptop
 
 - Follow the Vanilla guide in the sidebar to make a bootable usb with Mojave
-  [r/hackintosh](https://reddit.com/r/hackingtosh)
+  [r/hackintosh](https://reddit.com/r/hackintosh)
 - Mount the EFI partition on the USB with a tool like [clover configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
 - Replace the Clover folder in the EFI partition with the contents of [clover.zip](CLOVER.zip)
 - Unmount the EFI partition
