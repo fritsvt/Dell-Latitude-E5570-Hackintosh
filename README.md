@@ -1,6 +1,6 @@
 # Dell-Latitude-E5570-Hackintosh
 
-Run Mac OS Mojave on a Dell Latitude e5570
+Run Mac OS Catalina on a Dell Latitude e5570
 
 This guide and anything in the repo comes with no warranty. Use at your own
 risk! I am not responsible if you get fired because your hackingtosh is broken.
